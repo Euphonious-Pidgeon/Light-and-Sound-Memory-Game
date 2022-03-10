@@ -6,7 +6,7 @@ Submitted by: **Kevin Li**
 
 Time spent: **8** hours spent in total including optionals
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://glitch.com/edit/#!/autumn-triangular-newt?path=README.md%3A88%3A138)
 
 ## Required Functionality
 
