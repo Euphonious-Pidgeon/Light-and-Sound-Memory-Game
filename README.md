@@ -42,11 +42,11 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 **Winning the game**
 
-<img src="http://g.recordit.co/FFwS1xFQox.gif" width=750 height=500><br>
+<img src="http://g.recordit.co/FFwS1xFQox.gif" width=800 height=500><br>
 
 **Losing the game**
 
-<img src="http://g.recordit.co/JPnYWQeHU0.gif" width=750 height=500><br>
+<img src="http://g.recordit.co/JPnYWQeHU0.gif" width=800 height=500><br>
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
