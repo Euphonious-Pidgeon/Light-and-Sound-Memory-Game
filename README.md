@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
-**Winning the game**
+**Playing the game normally (gif was too long to win the game)**
 
 <img src="http://g.recordit.co/FFwS1xFQox.gif" width=790 height=500><br>
 
