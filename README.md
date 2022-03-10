@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 **Winning**
-![]http://g.recordit.co/FFwS1xFQox.gif
+![http://g.recordit.co/FFwS1xFQox.gif]
 **Losing**
 ![]http://g.recordit.co/JPnYWQeHU0.gif
 
