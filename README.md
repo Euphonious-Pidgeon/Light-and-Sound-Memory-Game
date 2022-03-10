@@ -50,6 +50,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
 The CodePath instructions are out of date to an extent, and finding the necessary information proved to be difficult. 
 I went on YouTube to get a tour of it first through the channel Jon Smikly, and that gave me a good idea of what I was looking for.
 When it came to creating randomized patterns, I had to look up Math.random on W3School, and it was very clear on how to pick numbers within a range.
@@ -57,6 +58,7 @@ In regards to inserting images into a button, I used W3Schools to learn how to d
 For that, I received help from YouTube through a channel called Maniflames.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+
 A lot of code was provided by CodePath, and a terrible bug came along with it. When I thought that I finished the necessary functionalities,
 I tested the game and it would not let me click through a sequence of 3. For example, if blue, blue green lit up in sequence, clicking blue blue would end the game
 in a loss before the user can click green. However, if one were to click blue then green, the game would continue normally despite missing another blue.
@@ -65,6 +67,7 @@ I pulled up the log console and everything functioned normally despite the bug. 
 2 times to find out that my guessCounter variable in the playClueSequence function had a var in front when it shouldn't have.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+
 I wonder if Adobe XD or some other tool would be easier to use when it came to making a website? Adobe XD allows for
 an easy creation of design with functionalities incorporated into it such as clicking interactions. One upside to this tool is that
 there are no code involved to make the site, which drastically reduces potential bugs to be had.
@@ -73,6 +76,7 @@ I can be totally wrong though, this is my first time using JavaScript and having
 The language itself is already amazing and yet people are saying react is a lot better, I wonder what types of functionalities are to be expected in the future?]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+
 I was in the middle of coding up the timer for the last optional stage, but I could not get it to work.
 I coded up the display for it to show on html and was able to hide/unhide it in perfect sync with the start/stop button.
 That's where I started to get tired and got loss track of a lot of variables to code the countdown function.
