@@ -39,11 +39,12 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-
 **Winning**
-<img src="http://g.recordit.co/FFwS1xFQox.gif" width=200 height=200><br>
+
+<img src="http://g.recordit.co/FFwS1xFQox.gif" width=500 height=500><br>
 
 **Losing**
+
 <img src="http://g.recordit.co/JPnYWQeHU0.gif" width=200><br>
 
 ## Reflection Questions
