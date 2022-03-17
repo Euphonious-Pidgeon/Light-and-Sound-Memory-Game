@@ -79,7 +79,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
     I was in the middle of coding up the timer for the last optional stage, but I could not get it to work.
     I coded up the display for it to show on html and was able to hide/unhide it in perfect sync with the start/stop button.
-    That's where I started to get tired and got loss track of a lot of variables to code the countdown function.
+    That's where I started to get tired and loss track of a lot of variables to code the countdown function.
     If I had more time, I would definitely go back and finish it.
     Another thing I would spend more time on is to understand the sound functions provided to us.
     The three functions consists of a lot of code which makes it visually intimidating that as I coded my JavaScript, I usually coded the beginning of the file
