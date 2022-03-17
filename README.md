@@ -62,7 +62,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
     A lot of code was provided by CodePath, and a terrible bug came along with it. When I thought that I finished the necessary functionalities,
     I tested the game and it would not let me click through a sequence of 3. For example, if blue blue green lit up in sequence, clicking blue blue would end the game
     in a loss before the user can click green. However, if one were to click blue then green, the game would continue normally despite missing another blue.
-    I thought this had something to do with an array where it only kept track on 2 clicks from the user, but I could not find anything like that in the code.
+    I thought this had something to do with an array where it only kept track of 2 clicks from the user, but I could not find anything like that in the code.
     I pulled up the log console and everything functioned normally despite the bug. In the end, I went back to the CodePath instructions to compare my code
     2 times to find out that my guessCounter variable in the playClueSequence function had a var in front when it shouldn't have.
 
